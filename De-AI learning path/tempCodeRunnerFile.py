@@ -1,0 +1,1 @@
+print(f"{temp}°F && { from_unit}°C")
